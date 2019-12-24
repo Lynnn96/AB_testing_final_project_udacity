@@ -1,6 +1,6 @@
 # A-B-test
 
-This is a A/B test project from Udacity. All of my notes are based A/B test course in Udacity and all the datasets are from Udacity.
+This is a A/B test project from Udacity. All of my notes are based on the A/B testing course in Udacity and all the datasets are from Udacity.
 
 If you are interested in taking this course, check on this link: https://www.udacity.com/course/ab-testing--ud257, it is a free course.
 
